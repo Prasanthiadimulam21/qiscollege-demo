@@ -1,4 +1,4 @@
 # qiscollege-demo
 This is my first Git Repository.
 <br>
-Author - Prasanthi Adimulam
+Author - Prasanthi (qis college)
